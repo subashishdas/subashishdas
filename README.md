@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-### <div align="center">I’m Subashish Das , A second-year CSE student passionate about coding and software development. 👨‍💻</div>  
+### <div align="center">I’m Subashish Das , A CSE student passionate about coding and software development. 👨‍💻</div>  
   
 
 - 🌱 I’m currently learning Java Backend  
