@@ -7,10 +7,10 @@
 ### <div align="center">I’m Subashish Das , A CSE student passionate about coding and software development. 👨‍💻</div>  
   
 
-- 🌱 I’m currently learning Java Backend  
+- 🌱 I’m currently learning Java 
   
 
-- ❓ Ask me about anything related to JAVA   
+- ❓ Ask me about anything related to Frontend Web  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
