@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Java 
   
 
-- ❓ Ask me about anything related to Frontend Web  
+- ❓ Ask me about anything related to Frontend Web Development 
   
 
 - ⚡ Fun fact: I use tabs over spaces  
