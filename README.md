@@ -7,7 +7,7 @@
 ### <div align="center">I’m Subashish Das , A CSE student passionate about coding and software development. 👨‍💻</div>  
   
 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Spring 
   
 
 - ❓ Ask me about anything related to Frontend Web Development 
