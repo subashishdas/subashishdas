@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-### <div align="center">I’m Subashish , A CSE student passionate about coding and software development. 👨‍💻</div>  
+### <div align="center">I’m Subashish , A CSE student passionate about coding and software development. 👨‍💻</div> 
   
 
 - 🌱 I’m currently learning Spring 
