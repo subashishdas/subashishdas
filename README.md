@@ -141,13 +141,20 @@ Focused on building **production-oriented backend systems** while learning syste
 
 <div align="center">
 
-<img width="49%" src="YOUR_SELF_HOSTED_STATS_URL/api?username=subashishdas&show_icons=true&hide_rank=true&theme=transparent&title_color=A78BFA&icon_color=22D3EE&text_color=E5E7EB&bg_color=0A101F&hide_border=true"/>
+<img width="100%"
+src="https://streak-stats.demolab.com?user=subashishdas&theme=transparent&hide_border=true&background=0A101F&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=E5E7EB&dates=94A3B8"/>
 
-<img width="49%" src="YOUR_SELF_HOSTED_STATS_URL/api/top-langs/?username=subashishdas&layout=compact&theme=transparent&title_color=A78BFA&text_color=E5E7EB&bg_color=0A101F&hide_border=true"/>
+<br/><br/>
 
-<br/>
+<a href="https://github.com/subashishdas">
+<img width="49%"
+src="https://github-readme-stats-lac-eight-79.vercel.app/api?username=subashishdas&show_icons=true&hide_rank=true&theme=transparent&bg_color=0A101F&title_color=A78BFA&icon_color=22D3EE&text_color=E5E7EB&hide_border=true"/>
+</a>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=subashishdas&theme=transparent&hide_border=true&background=0A101F&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=E5E7EB&dates=94A3B8"/>
+<a href="https://github.com/subashishdas">
+<img width="49%"
+src="https://github-readme-stats-lac-eight-79.vercel.app/api/top-langs/?username=subashishdas&layout=compact&theme=transparent&bg_color=0A101F&title_color=A78BFA&text_color=E5E7EB&hide_border=true"/>
+</a>
 
 </div>
 
