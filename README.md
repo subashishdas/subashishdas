@@ -166,11 +166,11 @@ src="https://github-readme-stats-lac-eight-79.vercel.app/api/top-langs/?username
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/subashishdas/subashishdas/output/github-contribution-grid-snake-dark.svg">
+    srcset="https://raw.githubusercontent.com/subashishdas/subashishdas/gh-pages/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/subashishdas/subashishdas/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/subashishdas/subashishdas/output/github-contribution-grid-snake.svg">
+    srcset="https://raw.githubusercontent.com/subashishdas/subashishdas/gh-pages/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/subashishdas/subashishdas/gh-pages/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake">
 </picture>
 
 </div>
